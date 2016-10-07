@@ -1,0 +1,11 @@
+H:\Facebook Tag Spam\Facebook Tag Spam\bin\Debug\Facebook Tag Spam.exe.config
+H:\Facebook Tag Spam\Facebook Tag Spam\bin\Debug\Facebook Tag Spam.exe
+H:\Facebook Tag Spam\Facebook Tag Spam\bin\Debug\Facebook Tag Spam.pdb
+H:\Facebook Tag Spam\Facebook Tag Spam\bin\Debug\Facebook Tag Spam.xml
+H:\Facebook Tag Spam\Facebook Tag Spam\obj\Debug\Facebook Tag Spam.vbprojResolveAssemblyReference.cache
+H:\Facebook Tag Spam\Facebook Tag Spam\obj\Debug\Facebook_Tag_Spam.Form1.resources
+H:\Facebook Tag Spam\Facebook Tag Spam\obj\Debug\Facebook_Tag_Spam.Resources.resources
+H:\Facebook Tag Spam\Facebook Tag Spam\obj\Debug\Facebook Tag Spam.vbproj.GenerateResource.Cache
+H:\Facebook Tag Spam\Facebook Tag Spam\obj\Debug\Facebook Tag Spam.exe
+H:\Facebook Tag Spam\Facebook Tag Spam\obj\Debug\Facebook Tag Spam.xml
+H:\Facebook Tag Spam\Facebook Tag Spam\obj\Debug\Facebook Tag Spam.pdb
